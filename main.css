@@ -198,3 +198,25 @@ body {
     color: black;
     font-size: 17px;
 }
+
+.my{
+    color: black;
+    font-size: 17px;
+    align-items: center;
+}
+
+.akk{
+    display: flex;
+    align-items: center;
+
+}
+
+.akk img{
+    border-radius: 50%;
+    margin: 20px;
+    margin-left: 50px;
+}
+
+.akk p{
+    flex-direction: column;
+}
