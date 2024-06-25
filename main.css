@@ -194,29 +194,228 @@ body {
     align-items: center;
 }
 
-.sh{
+.sh {
     color: black;
     font-size: 17px;
 }
 
-.my{
+.my {
     color: black;
     font-size: 17px;
     align-items: center;
 }
 
-.akk{
+.akk {
     display: flex;
     align-items: center;
+    margin-left: 15%;
+    width: 390px;
 
 }
 
-.akk img{
+.akk img {
     border-radius: 50%;
     margin: 20px;
-    margin-left: 50px;
 }
 
-.akk p{
+
+.yozuv {
+    padding: 1rem 0;
+    display: flex;
     flex-direction: column;
+}
+
+
+.nas {
+    width: 186px;
+    height: 36px;
+    border-radius: 20px;
+    border: 1px solid white;
+    background-color: black;
+    color: white;
+    cursor: pointer;
+}
+
+
+.btns {
+    display: flex;
+}
+
+
+.his {
+    color: black;
+    font-size: 17px;
+}
+
+.pl {
+    color: black;
+    font-size: 17px;
+}
+
+.vh h1 {
+    margin-left: 15rem;
+    padding: 2rem 0;
+
+}
+
+.vh button {
+    background-color: black;
+    color: white;
+    width: 150px;
+    height: 30px;
+    border-radius: 0.5rem;
+    margin-left: 15rem;
+}
+
+.un {
+    width: 400px;
+    border-radius: 2.5rem;
+    margin-left: 9rem;
+    padding: 2rem 0;
+}
+
+
+.h11 {
+    font-size: 17px;
+    margin-left: 9rem;
+}
+
+.wa {
+    color: black;
+    font-size: 17px;
+}
+
+.wac img {
+    width: 350px;
+    border-radius: 20px;
+    margin-left: 10rem;
+    padding: 4rem 0;
+}
+
+
+.we {
+    width: 160px;
+    height: 90px;
+}
+
+
+.gm {
+    font-size: 17px;
+    color: black;
+}
+
+.gme {
+    margin-left: 5rem;
+}
+
+
+.h2 {
+    margin-left: 15rem;
+    padding: 5rem 0;
+}
+
+.aaa {
+    display: flex;
+
+}
+
+.p2 {
+    margin-right: 50%;
+}
+
+.nws{
+    color: black;
+    font-size: 17px;
+}
+
+.wn{
+    margin-left: 10rem;
+    padding: 3rem 0;
+}
+
+.nw h1{
+    margin-left: 10rem;
+    font-size: 25px;
+
+}
+
+.nw{
+    display: flex;
+    gap: 2rem;
+    font-size: 25px;
+    cursor: pointer;
+}
+
+.spn{
+    font-size: 25px;
+    align-items: center;
+}
+
+.im{
+    padding: 3rem;
+}
+
+.im img{
+    padding: 2rem 0;
+}
+
+.st{
+    font-size: 17px;
+    color: black;
+}
+
+.hs{
+    font-size: 11px;
+    padding: 2rem 0;
+    gap: 2rem;
+    cursor: pointer;
+}
+
+
+.set{
+    margin: 2rem 0;
+}
+
+.hv{
+    margin-left: 25rem;
+}
+
+.hv h2{
+padding: 2rem 0;
+}
+
+.pd{
+    display: flex;
+    gap: 2rem;
+    margin: 2rem;
+}
+
+.sat h1{
+    font-size: 17px;
+}
+
+.sat{
+    display: flex;
+    gap: 2rem;
+}
+
+
+.hv img{
+    border-radius: 50%;
+    margin-left: 75rem;
+    font-size: 10px;
+}
+
+
+
+
+
+
+
+
+@media (max-width:1200px) {
+    .sidebar {
+        width: 70px;
+        overflow: hidden;
+    }
 }
